@@ -1,0 +1,9 @@
+# Ignore sensitive data
+data/sensitive/
+*.key
+personal_expenses.csv
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.tmp
+backups/
