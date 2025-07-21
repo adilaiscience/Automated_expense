@@ -6,20 +6,20 @@
 
 ## 📊 Live Executive Dashboard (Auto-Generated)
 
-f"*Last updated: July 21, 2025 at 05:56 PM CST | Processing time: 3 minutes*"
+f"*Last updated: July 21, 2025 at 06:06 PM CST | Processing time: 3 minutes*"
 [![🚀 Run Expense Automation](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adilaiscience/Automated_expense/blob/main/Executive_Budget_Automation.ipynb)
 
 ### 🎯 Executive Summary
 
 ```
-📊 NET BUDGET VARIANCE: $+5,299
-📈 Over Budget: $14,301 (4 categories)
-📉 Under Budget: $9,002 (7 categories)
+📊 NET BUDGET VARIANCE: $+861
+📈 Over Budget: $9,554 (3 categories)
+📉 Under Budget: $8,693 (5 categories)
 
 🔴 TOP BUDGET CONCERNS:
   Marketing: +$8,708 over budget
-  Legal and professional: +$5,059 over budget
-  Office Supplies: +$327 over budget
+  Marketing: +$589 over budget
+  Office Supplies: +$257 over budget
 
 💡 KEY INSIGHTS:
   • Marketing spend requires budget allocation ($8,708 unbudgeted)
@@ -34,21 +34,21 @@ f"*Last updated: July 21, 2025 at 05:56 PM CST | Processing time: 3 minutes*"
 | Category | June Budget | June Actual | July Budget | July Actual | Aug Budget | Aug Actual | Total Variance | Status |
 |----------|-------------|-------------|-------------|-------------|------------|------------|----------------|---------|
 | **Travel expenses** | $5,000 | $0 | $5,000 | $0 | $5,000 | $0 | **$-15,000** | 🟢 UNDER |
-| **Production molds, AI-tools** | $6,000 | $5,457 | $10,000 | $8,234 | $10,000 | $0 | **$-12,310** | 🟢 UNDER |
-| **Marketing** | $0 | $8,708 | $0 | $207 | $0 | $0 | **$+8,915** | 🔴 OVER |
-| **Misc Expenses** | $2,125 | $644 | $2,125 | $209 | $2,125 | $0 | **$-5,522** | 🟢 UNDER |
-| **Servers & platforms** | $2,000 | $312 | $2,000 | $1,432 | $2,000 | $0 | **$-4,256** | 🟢 UNDER |
-| **Legal and professional** | $20,626 | $19,586 | $1,000 | $6,059 | $1,000 | $0 | **$+3,019** | 🔴 OVER |
+| **Production molds, AI-tools** | $6,000 | $5,457 | $10,000 | $6,059 | $10,000 | $0 | **$-14,484** | 🟢 UNDER |
+| **Marketing** | $0 | $8,708 | $0 | $589 | $0 | $0 | **$+9,298** | 🔴 OVER |
+| **Servers & platforms** | $2,000 | $197 | $2,000 | $0 | $2,000 | $0 | **$-5,803** | 🟢 UNDER |
+| **Misc Expenses** | $2,125 | $758 | $2,125 | $0 | $2,125 | $0 | **$-5,617** | 🟢 UNDER |
+| **Legal and professional** | $20,626 | $19,586 | $1,000 | $0 | $1,000 | $0 | **$-3,040** | 🟢 UNDER |
 | **Office Rent** | $0 | $0 | $1,000 | $0 | $1,000 | $0 | **$-2,000** | 🟢 UNDER |
 | **Equipment** | $500 | $0 | $500 | $0 | $500 | $0 | **$-1,500** | 🟢 UNDER |
-| **Office Supplies** | $250 | $0 | $250 | $577 | $250 | $0 | **$-173** | 🟢 UNDER |
+| **Office Supplies** | $250 | $0 | $250 | $507 | $250 | $0 | **$-243** | 🟢 UNDER |
 
 
 ### 📅 Monthly Spending Trends
 - **June 2025:** $34,707 total expenses
-- **July 2025:** $16,718 total expenses
+- **July 2025:** $7,155 total expenses
 - **August 2025:** $0 total expenses
-- **Q3 Total:** $51,425 across all categories
+- **Q3 Total:** $41,862 across all categories
 
 ---
 
@@ -75,8 +75,8 @@ f"*Last updated: July 21, 2025 at 05:56 PM CST | Processing time: 3 minutes*"
 ## 🔧 System Performance (Latest Run)
 
 ### Data Sources Processed
-- ✅ **37 total expense entries** processed
-- ✅ **33 CSV expenses** from manual tracking
+- ✅ **26 total expense entries** processed
+- ✅ **22 CSV expenses** from manual tracking
 - ✅ **4 PDF/receipt extractions** automated
 - ✅ **4 AI categorization calls** (Claude API)
 
@@ -116,9 +116,9 @@ f"*Last updated: July 21, 2025 at 05:56 PM CST | Processing time: 3 minutes*"
 
 **Developer:** Adil Amin
 **Email:** adila@setpoint.ai
-**Company:** Setpoint.ai - Automating Business Operations
+**Company:** Setpoint.ai
 
-For questions, additional training, or implementation support.
+
 
 ---
 
@@ -129,6 +129,6 @@ For questions, additional training, or implementation support.
 
 ---
 
-f"*🤖 This dashboard automatically updates each time the expense automation runs | Last processed: July 21, 2025 at 05:56 PM CST | Next run: On-demand*"
+f"*🤖 This dashboard automatically updates each time the expense automation runs | Last processed: July 21, 2025 at 06:06 PM CST | Next run: On-demand*"
 
-*Powered by Setpoint.ai - Transforming Business Operations with AI*
+*Powered by Setpoint.ai 
