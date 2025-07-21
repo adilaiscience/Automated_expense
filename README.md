@@ -6,8 +6,7 @@
 
 ## 📊 Live Executive Dashboard (Auto-Generated)
 
-*Last updated: July 21, 2025 at 10:11 PM | Processing time: 3 minutes*
-
+f"*Last updated: July 21, 2025 at 05:31 PM CST | Processing time: 3 minutes*"
 [![🚀 Run Expense Automation](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adilaiscience/Automated_expense/blob/main/Executive_Budget_Automation.ipynb)
 
 ### 🎯 Executive Summary
@@ -124,7 +123,6 @@ For questions, additional training, or implementation support.
 
 ---
 
-## 🎯 Ready to Eliminate Your Accounting Firm?
 
 [![🚀 Run Expense Automation](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adilaiscience/Automated_expense/blob/main/Executive_Budget_Automation.ipynb)
 
@@ -132,6 +130,6 @@ For questions, additional training, or implementation support.
 
 ---
 
-*🤖 This dashboard automatically updates each time the expense automation runs | Last processed: July 21, 2025 at 10:11 PM | Next run: On-demand*
+f"*🤖 This dashboard automatically updates each time the expense automation runs | Last processed: July 21, 2025 at 05:31 PM CST | Next run: On-demand*"
 
 *Powered by Setpoint.ai - Transforming Business Operations with AI*
