@@ -6,7 +6,7 @@
 
 ## 📊 Live Executive Dashboard (Auto-Generated)
 
-f"*Last updated: July 21, 2025 at 05:31 PM CST | Processing time: 3 minutes*"
+f"*Last updated: July 21, 2025 at 05:56 PM CST | Processing time: 3 minutes*"
 [![🚀 Run Expense Automation](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adilaiscience/Automated_expense/blob/main/Executive_Budget_Automation.ipynb)
 
 ### 🎯 Executive Summary
@@ -52,24 +52,23 @@ f"*Last updated: July 21, 2025 at 05:31 PM CST | Processing time: 3 minutes*"
 
 ---
 
-## 💰 ROI Analysis: Automation vs Accounting Firm
+## 💰 ROI Analysis: Automation vs Accountant
 
 ### Before (Manual Process)
-- **Monthly Cost:** $5,000-8,000 (accounting firm)
+- Accountant Salary: $5,000/month
 - **Processing Time:** 2-3 weeks
 - **Manual Hours:** 40+ hours/month
 - **Report Delivery:** Email PDF after 3 weeks
 - **Error Rate:** 15-20% (manual entry errors)
 
 ### After (Automated System)
-- **Monthly Cost:** $23 (API fees only)
+- **Monthly Cost:** $0.45 (API fees only)
 - **Processing Time:** 3 minutes
 - **Manual Hours:** 5 minutes/month
 - **Report Delivery:** Real-time dashboard
 - **Error Rate:** <2% (AI-powered accuracy)
 
-### **💡 Monthly Savings: $4,977 (99.5% cost reduction)**
-### **💡 Annual Savings: $59,724**
+
 
 ---
 
@@ -115,7 +114,7 @@ f"*Last updated: July 21, 2025 at 05:31 PM CST | Processing time: 3 minutes*"
 
 ## 📞 Support & Contact
 
-**Developer:** Adila Iscience
+**Developer:** Adil Amin
 **Email:** adila@setpoint.ai
 **Company:** Setpoint.ai - Automating Business Operations
 
@@ -130,6 +129,6 @@ For questions, additional training, or implementation support.
 
 ---
 
-f"*🤖 This dashboard automatically updates each time the expense automation runs | Last processed: July 21, 2025 at 05:31 PM CST | Next run: On-demand*"
+f"*🤖 This dashboard automatically updates each time the expense automation runs | Last processed: July 21, 2025 at 05:56 PM CST | Next run: On-demand*"
 
 *Powered by Setpoint.ai - Transforming Business Operations with AI*
