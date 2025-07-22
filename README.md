@@ -6,7 +6,7 @@
 
 ## 📊 Live Executive Dashboard (Auto-Generated)
 
-"*Last updated: July 22, 2025 at 08:54 AM CST | Processing time: 3 minutes*"
+f"*Last updated: July 22, 2025 at 11:59 AM CST | Processing time: 3 minutes*"
 [![🚀 Run Expense Automation](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adilaiscience/Automated_expense/blob/main/Executive_Budget_Automation.ipynb)
 
 ### 🎯 Executive Summary
@@ -125,10 +125,10 @@
 
 [![🚀 Run Expense Automation](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adilaiscience/Automated_expense/blob/main/Executive_Budget_Automation.ipynb)
 
-**Click above to generate your the live financial dashboard in under 3 minutes!**
+**Click above to generate your own live financial dashboard in 3 minutes!**
 
 ---
 
-f"*🤖 This dashboard automatically updates each time the expense automation runs | Last processed: July 22, 2025 at 08:54 AM CST | Next run: On-demand*"
+f"*🤖 This dashboard automatically updates each time the expense automation runs | Last processed: July 22, 2025 at 11:59 AM CST | Next run: On-demand*"
 
 *Powered by Setpoint.ai 
