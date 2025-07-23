@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## 🎯 **START HERE - ONE-CLICK AUTOMATION** 
+## 🎯 **START HERE - ONE-CLICK AUTOMATION**
 
 ### **↓ CLICK THE BIG BUTTON BELOW TO RUN ↓**
 
@@ -28,7 +28,7 @@ The **"RUN EXPENSE AUTOMATION NOW"** button opens Google Colab
 ### ⚡ **Step 2: Look for the Dark Gray "▶ Run all" Button**
 
 **🔍 WHAT YOU'RE LOOKING FOR:**
-- At the very top of the Colab page  
+- At the very top of the Colab page
 - Dark gray rectangular button
 - Has a play triangle: **▶**
 - Says **"Run all"** in white text
@@ -45,7 +45,7 @@ The **"RUN EXPENSE AUTOMATION NOW"** button opens Google Colab
 4. ✅ Done!
 
 **Method B - Keyboard Shortcut:**
-1. Press **`Ctrl+F9`** (Windows/Linux) 
+1. Press **`Ctrl+F9`** (Windows/Linux)
 2. Press **`Cmd+F9`** (Mac)
 3. ✅ Done!
 
@@ -69,21 +69,21 @@ When the system finds new vendors, you'll see:
     13) Create new category
     14) Skip this expense
 
-   🎯 Enter number (1-14): 
+   🎯 Enter number (1-14):
 ```
 
 **Just type a number and press Enter!** The AI remembers and won't ask again.
 
 ### 📊 **Step 5: Get Your Executive Dashboard**
 - Complete financial analysis in 3 minutes
-- All files auto-saved to Google Drive  
+- All files auto-saved to Google Drive
 - This GitHub page updates with live data
 
 ---
 
 ## 📊 **Live Executive Dashboard** (Auto-Generated)
 
-*Last updated: July 23, 2025 at 04:00 PM CST | July Proof-of-Concept Results*
+*Last updated: July 23, 2025 at 04:57 PM CST | July Proof-of-Concept Results*
 
 [![🚀 **UPDATE DASHBOARD NOW** - Get Latest Data](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adilaiscience/Automated_expense/blob/main/Executive_Budget_Automation.ipynb)
 
@@ -91,7 +91,7 @@ When the system finds new vendors, you'll see:
 
 ```
 📊 NET BUDGET VARIANCE: $-1,967
-📈 Categories Over Budget: 1
+📈 Categories Over Budget: 0
 📉 Categories Under Budget: 3
 
 💡 KEY INSIGHTS:
@@ -106,8 +106,7 @@ When the system finds new vendors, you'll see:
 
 | **Category** | **July CSV** | **July AI** | **Variance** | **Status** |
 |--------------|--------------|-------------|--------------|-------------|
-| **Insurance** | $0 | $7,647 | **$+7,647** | 🔴 OVER (AI found more) |
-| **Misc Expenses** | $8,581 | $423 | **$-8,158** | 🟡 UNDER (AI found less) |
+| **Misc Expenses** | $8,581 | $8,070 | **$-510** | 🟡 UNDER (AI found less) |
 | **Office Supplies** | $577 | $238 | **$-339** | 🟡 UNDER (AI found less) |
 | **Servers & platforms** | $1,501 | $384 | **$-1,117** | 🟡 UNDER (AI found less) |
 
@@ -141,7 +140,7 @@ When the system finds new vendors, you'll see:
 
 ### Physics-Inspired Design
 - **Microscale**: Pattern recognition from CSV ground truth
-- **Mesoscale**: PDF extraction with smart categorization  
+- **Mesoscale**: PDF extraction with smart categorization
 - **Macroscale**: Claude OCR for edge cases
 - **Emergence**: Complex budget intelligence from simple vendor rules
 
@@ -158,7 +157,7 @@ When the system finds new vendors, you'll see:
 - `executive_budget_vs_actual_report.csv` - Main dashboard data
 - `dual_pipeline_executive_summary.txt` - Processing overview
 
-### Pipeline Data  
+### Pipeline Data
 - `pipeline_A_csv_data.csv` - CSV ground truth expenses
 - `pipeline_B_ai_data.csv` - AI-extracted PDF expenses
 - `pipeline_comparison.csv` - Variance analysis
@@ -174,7 +173,7 @@ When the system finds new vendors, you'll see:
 
 ### Monthly Workflow
 1. **Upload PDFs** to shared Google Drive (July folder)
-2. **Run automation** (3 minutes, once per month)  
+2. **Run automation** (3 minutes, once per month)
 3. **Review dashboard** (this page updates automatically)
 4. **Download CSVs** for board presentations
 
@@ -201,7 +200,7 @@ When the system finds new vendors, you'll see:
 
 ---
 
-*🤖 This dashboard updates automatically every time the expense automation runs*  
+*🤖 This dashboard updates automatically every time the expense automation runs*
 *Next update: On-demand | Processing: 3 minutes | Cost: $0.45*
 
 *Powered by Setpoint.ai - Where Physics Meets Finance*
