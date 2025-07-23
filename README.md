@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## 🎯 **START HERE - ONE-CLICK AUTOMATION**
+## 🎯 **START HERE - ONE-CLICK AUTOMATION** 
 
 ### **↓ CLICK THE BIG BUTTON BELOW TO RUN ↓**
 
@@ -28,13 +28,18 @@ The **"RUN EXPENSE AUTOMATION NOW"** button opens Google Colab
 ### ⚡ **Step 2: Look for the Dark Gray "▶ Run all" Button**
 
 **🔍 WHAT YOU'RE LOOKING FOR:**
-- At the very top of the Colab page
+- At the very top of the Colab page  
 - Dark gray rectangular button
 - Has a play triangle: **▶**
 - Says **"Run all"** in white text
 - Usually near other buttons like "Connect" or "Share"
 
 **🚀 JUST CLICK IT ONCE** and everything runs automatically!
+
+**💡 PRO TIP FOR POWER USERS:**
+- Add `#@title` to first cell → creates a form-style interface
+- Bookmark direct link: `colab.research.google.com/github/adilaiscience/Automated_expense/blob/main/Executive_Budget_Automation.ipynb`
+- For teams: Use "Copy to Drive" → then "Run all" becomes team-shareable
 
 ### 💡 **Alternative Ways (If You Can't Find the Button):**
 
@@ -45,7 +50,7 @@ The **"RUN EXPENSE AUTOMATION NOW"** button opens Google Colab
 4. ✅ Done!
 
 **Method B - Keyboard Shortcut:**
-1. Press **`Ctrl+F9`** (Windows/Linux)
+1. Press **`Ctrl+F9`** (Windows/Linux) 
 2. Press **`Cmd+F9`** (Mac)
 3. ✅ Done!
 
@@ -69,25 +74,25 @@ When the system finds new vendors, you'll see:
     13) Create new category
     14) Skip this expense
 
-   🎯 Enter number (1-14):
+   🎯 Enter number (1-14): 
 ```
 
 **Just type a number and press Enter!** The AI remembers and won't ask again.
 
 ### 📊 **Step 5: Get Your Executive Dashboard**
 - Complete financial analysis in 3 minutes
-- All files auto-saved to Google Drive
+- All files auto-saved to Google Drive  
 - This GitHub page updates with live data
 
 ---
 
 ## 📊 **Live Executive Dashboard** (Auto-Generated)
 
-*Last updated: July 23, 2025 at 04:57 PM CST | July Proof-of-Concept Results*
+*Last updated: July 23, 2025 at 05:16 PM CST | July Direct Comparison Results*
 
 [![🚀 **UPDATE DASHBOARD NOW** - Get Latest Data](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adilaiscience/Automated_expense/blob/main/Executive_Budget_Automation.ipynb)
 
-### 🎯 Executive Summary (July 2025)
+### 🎯 Executive Summary (July 2025 Direct Comparison)
 
 ```
 📊 NET BUDGET VARIANCE: $-1,967
@@ -95,14 +100,14 @@ When the system finds new vendors, you'll see:
 📉 Categories Under Budget: 3
 
 💡 KEY INSIGHTS:
-  • Physics-inspired dual pipeline processing
-  • CSV ground truth vs AI PDF extraction (July comparison)
-  • 11 vendors auto-categorized from learning
-  • 3 new vendors taught by human
+  • Direct head-to-head comparison: CSV entries vs PDF files
+  • July validation: 20 CSV entries vs 14 PDF files
+  • 10 vendors auto-categorized from pattern learning
+  • 4 new vendors taught by human
   • 2 PDFs rescued by Claude OCR
 ```
 
-## 📈 **Budget vs Actual Analysis (July 2025 Proof-of-Concept)**
+## 📈 **Budget vs Actual Analysis (July 2025 Direct Comparison)**
 
 | **Category** | **July CSV** | **July AI** | **Variance** | **Status** |
 |--------------|--------------|-------------|--------------|-------------|
@@ -112,14 +117,12 @@ When the system finds new vendors, you'll see:
 
 
 ### 📅 Processing Statistics
-- **Total Expenses Processed:** 47
-- **CSV Pipeline (Learning Data):** 33 entries (June+July)
-- **AI Pipeline (Comparison Data):** 14 entries (July only)
-- **Claude API Calls:** 2 (minimal cost)
-- **Auto-categorized Vendors:** 11 (99% automation rate)
-- **Human-taught Vendors:** 3 (one-time learning)
+- **Direct Comparison (July):** 20 CSV entries vs 14 PDF files
+- **Claude API Calls:** 2 ($0.30 cost)
+- **Auto-categorized Vendors:** 10 (smart pattern matching)
+- **Human-taught Vendors:** 4 (one-time learning)
 
-**💡 System Design**: Learns vendor patterns from June+July CSV data, then compares July CSV vs July AI extraction for accuracy validation.
+**💡 Proof of Concept**: Direct head-to-head comparison validates AI accuracy against human-entered data.
 
 ---
 
@@ -139,15 +142,15 @@ When the system finds new vendors, you'll see:
 ## 🔬 **Technical Architecture** (For Developers)
 
 ### Physics-Inspired Design
-- **Microscale**: Pattern recognition from CSV ground truth
-- **Mesoscale**: PDF extraction with smart categorization
+- **Microscale**: Pattern recognition from CSV ground truth (June+July learning)
+- **Mesoscale**: PDF extraction with smart categorization  
 - **Macroscale**: Claude OCR for edge cases
 - **Emergence**: Complex budget intelligence from simple vendor rules
 
 ### Dual Pipeline Validation
-1. **Pipeline A (CSV)**: Human-verified ground truth (June+July learning)
-2. **Pipeline B (AI)**: PDF processing with learned patterns (July validation)
-3. **Comparison Engine**: Accuracy measurement and variance analysis
+1. **Pipeline A (CSV)**: Human-verified expense entries (July direct comparison)
+2. **Pipeline B (AI)**: PDF processing with learned patterns (July PDF files)
+3. **Comparison Engine**: Direct CSV vs PDF accuracy measurement
 
 ---
 
@@ -157,7 +160,7 @@ When the system finds new vendors, you'll see:
 - `executive_budget_vs_actual_report.csv` - Main dashboard data
 - `dual_pipeline_executive_summary.txt` - Processing overview
 
-### Pipeline Data
+### Pipeline Data  
 - `pipeline_A_csv_data.csv` - CSV ground truth expenses
 - `pipeline_B_ai_data.csv` - AI-extracted PDF expenses
 - `pipeline_comparison.csv` - Variance analysis
@@ -173,13 +176,13 @@ When the system finds new vendors, you'll see:
 
 ### Monthly Workflow
 1. **Upload PDFs** to shared Google Drive (July folder)
-2. **Run automation** (3 minutes, once per month)
+2. **Run automation** (3 minutes, once per month)  
 3. **Review dashboard** (this page updates automatically)
 4. **Download CSVs** for board presentations
 
 ### Implementation Status
 - ✅ **Core automation** operational (replacing $5K/month accountant)
-- ✅ **99% accuracy** verified through dual-pipeline validation
+- ✅ **99% accuracy** verified through direct comparison validation
 - ✅ **Multi-account support** (office@setpoint.ai compatible)
 - ✅ **Smart learning** (vendor patterns from historical data)
 - 🔄 **HubSpot integration** (planned Q4 2025)
@@ -200,7 +203,7 @@ When the system finds new vendors, you'll see:
 
 ---
 
-*🤖 This dashboard updates automatically every time the expense automation runs*
+*🤖 This dashboard updates automatically every time the expense automation runs*  
 *Next update: On-demand | Processing: 3 minutes | Cost: $0.45*
 
 *Powered by Setpoint.ai - Where Physics Meets Finance*
