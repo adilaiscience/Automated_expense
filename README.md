@@ -88,38 +88,39 @@ When the system finds new vendors, you'll see:
 
 ## 📊 **Live Executive Dashboard** (Auto-Generated)
 
-*Last updated: July 23, 2025 at 05:16 PM CST | July Direct Comparison Results*
+*Last updated: July 23, 2025 at 05:52 PM CST | July Direct Comparison Results*
 
 [![🚀 **UPDATE DASHBOARD NOW** - Get Latest Data](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adilaiscience/Automated_expense/blob/main/Executive_Budget_Automation.ipynb)
 
 ### 🎯 Executive Summary (July 2025 Direct Comparison)
 
 ```
-📊 NET BUDGET VARIANCE: $-1,967
+📊 NET BUDGET VARIANCE: $-35,068
 📈 Categories Over Budget: 0
-📉 Categories Under Budget: 3
+📉 Categories Under Budget: 6
 
 💡 KEY INSIGHTS:
   • Direct head-to-head comparison: CSV entries vs PDF files
-  • July validation: 20 CSV entries vs 14 PDF files
-  • 10 vendors auto-categorized from pattern learning
+  • July validation: 20 CSV entries vs 13 PDF files
+  • 9 vendors auto-categorized from pattern learning
   • 4 new vendors taught by human
-  • 2 PDFs rescued by Claude OCR
+  • 4 PDFs rescued by Claude OCR
 ```
 
 ## 📈 **Budget vs Actual Analysis (July 2025 Direct Comparison)**
 
 | **Category** | **July CSV** | **July AI** | **Variance** | **Status** |
 |--------------|--------------|-------------|--------------|-------------|
-| **Misc Expenses** | $8,581 | $8,070 | **$-510** | 🟡 UNDER (AI found less) |
-| **Office Supplies** | $577 | $238 | **$-339** | 🟡 UNDER (AI found less) |
-| **Servers & platforms** | $1,501 | $384 | **$-1,117** | 🟡 UNDER (AI found less) |
+| **Legal and professional** | $0 | $0 | $+0 | 🟡 UNDER (AI found less) |
+| **Misc Expenses** | $8,581 | $7,863 | $+0 | 🟡 UNDER (AI found less) |
+| **Office Supplies** | $577 | $238 | $+0 | 🟡 UNDER (AI found less) |
+| **Servers & platforms** | $1,501 | $402 | $+0 | 🟡 UNDER (AI found less) |
 
 
 ### 📅 Processing Statistics
-- **Direct Comparison (July):** 20 CSV entries vs 14 PDF files
-- **Claude API Calls:** 2 ($0.30 cost)
-- **Auto-categorized Vendors:** 10 (smart pattern matching)
+- **Direct Comparison (July):** 20 CSV entries vs 13 PDF files
+- **Claude API Calls:** 4 ($0.60 cost)
+- **Auto-categorized Vendors:** 9 (smart pattern matching)
 - **Human-taught Vendors:** 4 (one-time learning)
 
 **💡 Proof of Concept**: Direct head-to-head comparison validates AI accuracy against human-entered data.
