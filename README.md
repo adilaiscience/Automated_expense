@@ -33,7 +33,7 @@
 
 ## 📊 Live Executive Dashboard (Auto-Generated)
 
-*Last updated: July 23, 2025 at 02:40 PM CST | Processing time: 3 minutes*
+*Last updated: July 23, 2025 at 03:12 PM CST | Processing time: 3 minutes*
 
 [![🚀 Run Expense Automation](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adilaiscience/Automated_expense/blob/main/Executive_Budget_Automation.ipynb)
 
@@ -41,7 +41,7 @@
 
 ```
 📊 NET BUDGET VARIANCE: $-28,207
-📈 Categories Over Budget: 1
+📈 Categories Over Budget: 2
 📉 Categories Under Budget: 6
 
 💡 KEY INSIGHTS:
@@ -58,11 +58,12 @@
 
 | Category | June CSV | June AI | July CSV | July AI | Aug CSV | Aug AI | Total Variance | Status |
 |----------|-----------|---------|-----------|---------|---------|--------|----------------|---------|
-| **Insurance** | $0 | $0 | $0 | $7,440 | $0 | $0 | **$+7,440** | 🔴 OVER (AI found more) |
+| **Insurance** | $0 | $0 | $0 | $414 | $0 | $0 | **$+414** | 🔴 OVER (AI found more) |
 | **Legal and professional** | $19,586 | $0 | $0 | $0 | $0 | $0 | **$-19,586** | 🟡 UNDER (AI found less) |
-| **Misc Expenses** | $6,302 | $0 | $8,581 | $621 | $0 | $0 | **$-14,262** | 🟡 UNDER (AI found less) |
+| **Marketing** | $0 | $0 | $0 | $9 | $0 | $0 | $+9 | ✅ MATCH |
+| **Misc Expenses** | $6,302 | $0 | $8,581 | $7,647 | $0 | $0 | **$-7,236** | 🟡 UNDER (AI found less) |
 | **Office Supplies** | $0 | $0 | $577 | $238 | $0 | $0 | **$-339** | 🟡 UNDER (AI found less) |
-| **Servers & platforms** | $7,024 | $6,672 | $1,501 | $393 | $0 | $0 | **$-1,460** | 🟡 UNDER (AI found less) |
+| **Servers & platforms** | $7,024 | $6,672 | $1,501 | $384 | $0 | $0 | **$-1,469** | 🟡 UNDER (AI found less) |
 
 
 ### 📅 Processing Statistics
@@ -169,6 +170,6 @@ All files automatically saved to Google Drive `/output/` folder:
 
 ---
 
-*🤖 This dashboard automatically updates each time the expense automation runs | Last processed: July 23, 2025 at 02:40 PM CST | Next run: On-demand*
+*🤖 This dashboard automatically updates each time the expense automation runs | Last processed: July 23, 2025 at 03:12 PM CST | Next run: On-demand*
 
 *Powered by Setpoint.ai - Physics-Inspired Financial Intelligence*
