@@ -21,7 +21,7 @@
    - Learning happens automatically
 5. **Output Files** saved to Google Drive:
    - 📊 Executive reports
-   - 📈 Pipeline comparisons  
+   - 📈 Pipeline comparisons
    - 💾 All processed data
 
 ### 🔗 Data Source
@@ -33,7 +33,7 @@
 
 ## 📊 Live Executive Dashboard (Auto-Generated)
 
-*Last updated: July 23, 2025 at 02:22 PM CST | Processing time: 3 minutes*
+*Last updated: July 23, 2025 at 02:40 PM CST | Processing time: 3 minutes*
 
 [![🚀 Run Expense Automation](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adilaiscience/Automated_expense/blob/main/Executive_Budget_Automation.ipynb)
 
@@ -41,13 +41,13 @@
 
 ```
 📊 NET BUDGET VARIANCE: $-28,207
-📈 Categories Over Budget: 0
+📈 Categories Over Budget: 1
 📉 Categories Under Budget: 6
 
 💡 KEY INSIGHTS:
   • Physics-inspired dual pipeline processing
   • CSV ground truth vs AI PDF extraction
-  • 12 vendors auto-categorized from learning
+  • 11 vendors auto-categorized from learning
   • 3 new vendors taught by human
   • 3 PDFs rescued by Claude OCR
 ```
@@ -58,18 +58,19 @@
 
 | Category | June CSV | June AI | July CSV | July AI | Aug CSV | Aug AI | Total Variance | Status |
 |----------|-----------|---------|-----------|---------|---------|--------|----------------|---------|
+| **Insurance** | $0 | $0 | $0 | $7,440 | $0 | $0 | **$+7,440** | 🔴 OVER (AI found more) |
 | **Legal and professional** | $19,586 | $0 | $0 | $0 | $0 | $0 | **$-19,586** | 🟡 UNDER (AI found less) |
-| **Misc Expenses** | $6,302 | $0 | $8,581 | $8,070 | $0 | $0 | **$-6,813** | 🟡 UNDER (AI found less) |
+| **Misc Expenses** | $6,302 | $0 | $8,581 | $621 | $0 | $0 | **$-14,262** | 🟡 UNDER (AI found less) |
 | **Office Supplies** | $0 | $0 | $577 | $238 | $0 | $0 | **$-339** | 🟡 UNDER (AI found less) |
-| **Servers & platforms** | $7,024 | $6,672 | $1,501 | $384 | $0 | $0 | **$-1,469** | 🟡 UNDER (AI found less) |
+| **Servers & platforms** | $7,024 | $6,672 | $1,501 | $393 | $0 | $0 | **$-1,460** | 🟡 UNDER (AI found less) |
 
 
 ### 📅 Processing Statistics
 - **Total Expenses Processed:** 48
 - **CSV Pipeline (Ground Truth):** 33 entries
-- **AI Pipeline (PDF Extraction):** 15 entries  
+- **AI Pipeline (PDF Extraction):** 15 entries
 - **Claude API Calls:** 3 (minimal usage)
-- **Auto-categorized Vendors:** 12 (99% automation)
+- **Auto-categorized Vendors:** 11 (99% automation)
 - **Human-taught Vendors:** 3 (learning loop)
 
 ---
@@ -97,7 +98,7 @@
 ## 🔬 Technical Architecture
 
 ### Physics-Inspired Design
-- **Microscale:** Pattern matching from CSV ground truth (12 auto-categorized)
+- **Microscale:** Pattern matching from CSV ground truth (11 auto-categorized)
 - **Mesoscale:** PDF extraction with smart categorization (15 PDFs processed)
 - **Macroscale:** Claude OCR for edge cases (3 rescues, 3 API calls)
 - **Emergence:** Complex budget intelligence from simple rules
@@ -108,7 +109,7 @@
 3. **Comparison Engine:** Variance analysis ($-28,207 net variance)
 
 ### Smart Learning Loop
-- **Known vendors:** Instant auto-categorization (12 vendors)
+- **Known vendors:** Instant auto-categorization (11 vendors)
 - **Unknown vendors:** Human teaches once, auto forever (3 learned)
 - **Pattern recognition:** Similarity matching and context clues
 
@@ -122,7 +123,7 @@ All files automatically saved to Google Drive `/output/` folder:
 - `executive_budget_vs_actual_report.csv` - Main dashboard data
 - `dual_pipeline_executive_summary.txt` - Processing summary
 
-### Pipeline Data  
+### Pipeline Data
 - `pipeline_A_csv_data.csv` - CSV ground truth expenses
 - `pipeline_B_ai_data.csv` - AI-extracted PDF expenses
 - `pipeline_comparison.csv` - Side-by-side variance analysis
@@ -138,7 +139,7 @@ All files automatically saved to Google Drive `/output/` folder:
 
 ### For Leadership Team
 - 🎯 **Monthly Reports:** Run automation monthly for updated dashboards
-- 📊 **Board Presentations:** Download CSV reports for stakeholder meetings  
+- 📊 **Board Presentations:** Download CSV reports for stakeholder meetings
 - 💰 **Budget Planning:** Use variance data for quarterly planning
 - 🔧 **Team Training:** 15-minute onboarding for any team member
 
@@ -153,9 +154,9 @@ All files automatically saved to Google Drive `/output/` folder:
 
 ## 📞 Support & Development
 
-**Developer:** Adil Amin  
-**Email:** adila@setpoint.ai  
-**Company:** Setpoint.ai  
+**Developer:** Adil Amin
+**Email:** adila@setpoint.ai
+**Company:** Setpoint.ai
 **GitHub:** @adilaiscience
 
 **System Philosophy:** Physics-inspired emergence, interpretable AI, and human-in-the-loop learning for maximum accuracy and minimal cost.
@@ -168,6 +169,6 @@ All files automatically saved to Google Drive `/output/` folder:
 
 ---
 
-*🤖 This dashboard automatically updates each time the expense automation runs | Last processed: July 23, 2025 at 02:22 PM CST | Next run: On-demand*
+*🤖 This dashboard automatically updates each time the expense automation runs | Last processed: July 23, 2025 at 02:40 PM CST | Next run: On-demand*
 
 *Powered by Setpoint.ai - Physics-Inspired Financial Intelligence*
