@@ -34,7 +34,7 @@
 
 ## 📊 **Live Dashboard** (Auto-Updated)
 
-*Last updated: July 23, 2025 at 11:29 PM CST | July Direct Comparison Results*
+*Last updated: July 23, 2025 at 11:37 PM CST | July Direct Comparison Results*
 
 ### 🎯 Executive Summary
 
@@ -55,7 +55,8 @@
 
 | **Category** | **July CSV** | **July AI** | **Variance** | **Status** |
 |--------------|--------------|-------------|--------------|-------------|
-| **Misc Expenses** | $8,581 | $7,656 | $-924 | 🟡 UNDER (AI found less) |
+| **Misc Expenses** | $8,581 | $7,647 | $-933 | 🟡 UNDER (AI found less) |
+| **Office Rent** | $0 | $9 | $+9 | ✅ MATCH |
 | **Office Supplies** | $577 | $238 | $-339 | 🟡 UNDER (AI found less) |
 | **Servers & platforms** | $1,501 | $382 | $-1,119 | 🟡 UNDER (AI found less) |
 
@@ -81,14 +82,14 @@
 
 ## 📁 **Output Files** (Auto-saved to Google Drive)
 
-All files are automatically saved to the shared drive at:  
+All files are automatically saved to the shared drive at:
 `/content/drive/Shareddrives/AI_Projects/Expense_automation/output/`
 
 ### Executive Reports
 - `executive_budget_vs_actual_report.csv` - Main dashboard data
 - `dual_pipeline_executive_summary.txt` - Processing overview
 
-### Pipeline Data  
+### Pipeline Data
 - `pipeline_A_csv_data.csv` - CSV ground truth expenses
 - `pipeline_B_ai_data.csv` - AI-extracted PDF expenses
 - `pipeline_comparison.csv` - Variance analysis
