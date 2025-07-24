@@ -1,8 +1,8 @@
 # 🚀 Setpoint.ai - Automated Financial Reporting
 
-**Live Executive Dashboard | Replacing $5,000/month Accounting Firm**
+**Live Executive Dashboard | Replacing Accounting Firm**
 
-*Developed by Adil Amin (@adilaiscience) | Powered by Physics-Inspired AI*
+ *Powered by Setpoint AI* | *Developed by Adil Amin
 
 ---
 
@@ -14,7 +14,7 @@
 
 [![🚀 **RUN EXPENSE AUTOMATION NOW** - Click Here to Start](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adilaiscience/Automated_expense/blob/main/Executive_Budget_Automation.ipynb)
 
-**⏱️ Processing Time: 3 minutes | 💰 Cost: $0.45/month | 🎯 ROI: 13,332%**
+**⏱️ Processing Time: 3 minutes | 💰 Cost: $0.4/month | ✅ 99% Accuracy**
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ## 📊 **Live Executive Dashboard** (Auto-Generated)
 
-*Last updated: July 23, 2025 at 10:31 PM CST | July Direct Comparison Results*
+*Last updated: July 23, 2025 at 10:39 PM CST | July Direct Comparison Results*
 
 [![🚀 **UPDATE DASHBOARD NOW** - Get Latest Data](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adilaiscience/Automated_expense/blob/main/Executive_Budget_Automation.ipynb)
 
@@ -60,31 +60,12 @@
 
 ---
 
-## 💰 **ROI Analysis: $60K/Year Savings**
-
-| Metric | Before (Manual) | After (Automated) | **Annual Savings** |
-|--------|----------------|-------------------|-------------------|
-| **Monthly Cost** | $5,000 (accountant) | $0.45 (API fees) | **$59,994.60** |
-| **Processing Time** | 2-3 weeks | 3 minutes | **160+ hours/month** |
-| **Error Rate** | 15-20% (manual) | <2% (AI-verified) | **18% improvement** |
-| **Scalability** | 1 person limit | Unlimited | **∞ capacity** |
-
-**🎯 Total ROI: 13,332%** | **Break-even: Immediate**
-
----
-
-## 🔬 **Technical Architecture** (For Developers)
-
-### Physics-Inspired Design
-- **Microscale**: Pattern recognition from CSV ground truth (June+July learning)
-- **Mesoscale**: PDF extraction with smart categorization  
-- **Macroscale**: Claude OCR for edge cases
-- **Emergence**: Complex budget intelligence from simple vendor rules
-
 ### Dual Pipeline Validation
 1. **Pipeline A (CSV)**: Human-verified expense entries (July direct comparison)
 2. **Pipeline B (AI)**: PDF processing with learned patterns (July PDF files)
 3. **Comparison Engine**: Direct CSV vs PDF accuracy measurement
+
+---
 
 ---
 
@@ -119,7 +100,7 @@
 - ✅ **99% accuracy** verified through direct comparison validation
 - ✅ **Multi-account support** (office@setpoint.ai compatible)
 - ✅ **Smart learning** (vendor patterns from historical data)
-- 🔄 **HubSpot integration** (planned Q4 2025)
+- 🔄 **HubSpot integration** (planned 
 
 ---
 
@@ -138,6 +119,6 @@
 ---
 
 *🤖 This dashboard updates automatically every time the expense automation runs*  
-*Next update: On-demand | Processing: 3 minutes | Cost: $0.45*
+*Next update: On-demand | Processing: 3 minutes | Cost: $0.4*
 
-*Powered by Setpoint.ai - Where Physics Meets Finance*
+*Powered by Setpoint.ai*
