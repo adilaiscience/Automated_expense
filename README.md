@@ -2,23 +2,13 @@
 
 **Live Executive Dashboard | Replacing Accountant**
 
-*Powered by Setpoint AI | Developed by Adil Amin*
-
----
-
-<div align="center">
-
-[![🚀 **RUN EXPENSE AUTOMATION NOW**](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adilaiscience/Automated_expense/blob/main/Executive_Budget_Automation.ipynb)
-
-**⏱️ 3 minutes | 💰 $0.4/month | ✅ 99% Accuracy**
-
-</div>
+*Powered by Setpoint AI | Developed by Adil Amin (@adilaiscience)*
 
 ---
 
 ## 📋 **How to Use**
 
-1. **Click the blue button above** → Opens Google Colab
+1. **Click the big blue button below** → Opens Google Colab
 2. **Click "▶ Run all"** at the top of the page
 3. **Enter API keys** when prompted (Claude + GitHub)
 4. **Categorize new vendors** by typing numbers
@@ -28,9 +18,23 @@
 
 ---
 
+<div align="center">
+
+# **👇 CLICK HERE FOR CODE 👇**
+
+## [![🚀 **RUN EXPENSE AUTOMATION NOW**](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adilaiscience/Automated_expense/blob/main/Executive_Budget_Automation.ipynb)
+
+# **👆 CLICK THE BLUE BUTTON ABOVE 👆**
+
+### **⏱️ 3 minutes | 💰 $0.4/month | ✅ 99% Accuracy**
+
+</div>
+
+---
+
 ## 📊 **Live Dashboard** (Auto-Updated)
 
-*Last updated: July 23, 2025 at 11:17 PM CST | July Direct Comparison Results*
+*Last updated: July 23, 2025 at 11:29 PM CST | July Direct Comparison Results*
 
 ### 🎯 Executive Summary
 
@@ -97,9 +101,8 @@ All files are automatically saved to the shared drive at:
 ---
 
 
-
 ### Implementation Status
-- ✅ **Core automation** operational 
+- ✅ **Core automation** operational (replacing $5K/month accountant)
 - ✅ **99% accuracy** verified through direct comparison validation
 - ✅ **Multi-account support** (office@setpoint.ai compatible)
 - ✅ **Smart learning** (vendor patterns from historical data)
@@ -109,8 +112,6 @@ All files are automatically saved to the shared drive at:
 <div align="center">
 
 **📧 Support**: adila@setpoint.ai | **🏢 Company**: Setpoint.ai
-
-[![🚀 **GET STARTED**](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adilaiscience/Automated_expense/blob/main/Executive_Budget_Automation.ipynb)
 
 </div>
 
