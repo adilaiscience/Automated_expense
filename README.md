@@ -34,7 +34,7 @@
 
 ## 📊 **Live Dashboard** (Auto-Updated)
 
-*Last updated: July 23, 2025 at 11:37 PM CST | July Direct Comparison Results*
+*Last updated: July 23, 2025 at 11:41 PM CST | July Direct Comparison Results*
 
 ### 🎯 Executive Summary
 
@@ -56,7 +56,7 @@
 | **Category** | **July CSV** | **July AI** | **Variance** | **Status** |
 |--------------|--------------|-------------|--------------|-------------|
 | **Misc Expenses** | $8,581 | $7,647 | $-933 | 🟡 UNDER (AI found less) |
-| **Office Rent** | $0 | $9 | $+9 | ✅ MATCH |
+| **Office Rent** | $0 | $9 | $+9 | 🔴 OVER (AI found more) |
 | **Office Supplies** | $577 | $238 | $-339 | 🟡 UNDER (AI found less) |
 | **Servers & platforms** | $1,501 | $382 | $-1,119 | 🟡 UNDER (AI found less) |
 
