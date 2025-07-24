@@ -34,20 +34,20 @@
 
 ## 📊 **Live Dashboard** (Auto-Updated)
 
-*Last updated: July 24, 2025 at 06:04 AM CST | July Direct Comparison Results*
+*Last updated: July 24, 2025 at 07:08 AM CST | July Direct Comparison Results*
 
 ### 🎯 Executive Summary
 
 ```
-📊 NET BUDGET VARIANCE: $-2,185
-📈 Categories Over Budget: 0
-📉 Categories Under Budget: 3
+📊 NET BUDGET VARIANCE: $-1,833
+📈 Categories Over Budget: 1
+📉 Categories Under Budget: 2
 
 💡 KEY INSIGHTS:
   • Direct head-to-head: CSV entries vs PDF files
-  • July validation: 20 CSV entries vs 11 PDF files
-  • 11 vendors auto-categorized from pattern learning
-  • 1 new vendors taught by human
+  • July validation: 20 CSV entries vs 18 PDF files
+  • 15 vendors auto-categorized from pattern learning
+  • 3 new vendors taught by human
   • 2 PDFs rescued by Claude OCR
 ```
 
@@ -55,16 +55,17 @@
 
 | **Category** | **July CSV** | **July AI** | **Variance** | **Status** |
 |--------------|--------------|-------------|--------------|-------------|
-| **Misc Expenses** | $8,581 | $7,854 | $-726 | 🟡 UNDER (AI found less) |
-| **Office Supplies** | $577 | $238 | $-339 | 🟡 UNDER (AI found less) |
-| **Servers & platforms** | $1,501 | $382 | $-1,119 | 🟡 UNDER (AI found less) |
+| **Misc Expenses** | $8,581 | $7,647 | $-933 | 🟡 UNDER (AI found less) |
+| **Office Rent** | $0 | $129 | $+129 | 🔴 OVER (AI found more) |
+| **Office Supplies** | $577 | $647 | $+71 | 🔴 OVER (AI found more) |
+| **Servers & platforms** | $1,501 | $402 | $-1,099 | 🟡 UNDER (AI found less) |
 
 
 ### 📅 Processing Statistics
-- **Direct Comparison (July):** 20 CSV entries vs 11 PDF files
-- **Claude API Calls:** 0 (~$0.00 total cost)
-- **Auto-categorized Vendors:** 11 (smart pattern matching)
-- **Human-taught Vendors:** 1 (one-time learning)
+- **Direct Comparison (July):** 20 CSV entries vs 18 PDF files
+- **Claude API Calls:** 2 (~$0.10 total cost)
+- **Auto-categorized Vendors:** 15 (smart pattern matching)
+- **Human-taught Vendors:** 3 (one-time learning)
 
 **💡 Proof of Concept**: Direct head-to-head comparison validates AI accuracy against human-entered data.
 
