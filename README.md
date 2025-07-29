@@ -34,38 +34,39 @@
 
 ## 📊 **Live Dashboard** (Auto-Updated)
 
-*Last updated: July 27, 2025 at 09:26 AM CST | July Direct Comparison Results*
+*Last updated: July 29, 2025 at 06:48 PM CST | July Direct Comparison Results*
 
 ### 🎯 Executive Summary
 
 ```
-📊 NET BUDGET VARIANCE: $-1,835
+📊 NET BUDGET VARIANCE: $-950
 📈 Categories Over Budget: 1
 📉 Categories Under Budget: 2
 
 💡 KEY INSIGHTS:
   • Direct head-to-head: CSV entries vs PDF files
-  • July validation: 20 CSV entries vs 17 PDF files
-  • 16 vendors auto-categorized from pattern learning
-  • 1 new vendors taught by human
-  • 2 PDFs rescued by Claude OCR
+  • July validation: 20 CSV entries vs 19 PDF files
+  • 15 vendors auto-categorized from pattern learning
+  • 3 new vendors taught by human
+  • 15 PDFs rescued by Claude OCR
 ```
 
 ### 📈 Budget vs Actual Analysis (July 2025)
 
 | **Category** | **July CSV** | **July AI** | **Variance** | **Status** |
 |--------------|--------------|-------------|--------------|-------------|
-| **Misc Expenses** | $8,581 | $7,656 | $-924 | 🟡 UNDER (AI found less) |
-| **Office Rent** | $0 | $129 | $+129 | 🔴 OVER (AI found more) |
-| **Office Supplies** | $577 | $647 | $+71 | 🔴 OVER (AI found more) |
-| **Servers & platforms** | $1,501 | $391 | $-1,110 | 🟡 UNDER (AI found less) |
+| **Abc** | $0 | $1,510 | $+1,510 | 🔴 OVER (AI found more) |
+| **Misc Expenses** | $8,581 | $6,275 | $-2,305 | 🟡 UNDER (AI found less) |
+| **Office Supplies** | $577 | $603 | $+26 | 🔴 OVER (AI found more) |
+| **Production molds, AI-tools** | $0 | $20 | $+20 | 🔴 OVER (AI found more) |
+| **Servers & platforms** | $1,501 | $1,300 | $-201 | 🟡 UNDER (AI found less) |
 
 
 ### 📅 Processing Statistics
-- **Direct Comparison (July):** 20 CSV entries vs 17 PDF files
-- **Claude API Calls:** 2 (~$0.10 total cost)
-- **Auto-categorized Vendors:** 16 (smart pattern matching)
-- **Human-taught Vendors:** 1 (one-time learning)
+- **Direct Comparison (July):** 20 CSV entries vs 19 PDF files
+- **Claude API Calls:** 15 (~$0.75 total cost)
+- **Auto-categorized Vendors:** 15 (smart pattern matching)
+- **Human-taught Vendors:** 3 (one-time learning)
 
 **💡 Proof of Concept**: Direct head-to-head comparison validates AI accuracy against human-entered data.
 
