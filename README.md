@@ -34,7 +34,7 @@
 
 ## 📊 **Live Dashboard** (Auto-Updated)
 
-*Last updated: July 30, 2025 at 08:39 PM CST | July Direct Comparison Results*
+*Last updated: July 30, 2025 at 10:08 PM CST | July Direct Comparison Results*
 
 ### 🎯 Executive Summary
 
@@ -55,7 +55,7 @@
 
 | **Category** | **July CSV** | **July AI** | **Variance** | **Status** |
 |--------------|--------------|-------------|--------------|-------------|
-| **Abc** | $0 | $1,510 | $+1,510 | 🔴 OVER (AI found more) |
+| **Balh** | $0 | $1,510 | $+1,510 | 🔴 OVER (AI found more) |
 | **Misc Expenses** | $8,581 | $6,275 | $-2,305 | 🟡 UNDER (AI found less) |
 | **Office Supplies** | $577 | $603 | $+26 | 🔴 OVER (AI found more) |
 | **Production molds, AI-tools** | $0 | $20 | $+20 | 🔴 OVER (AI found more) |
