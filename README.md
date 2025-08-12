@@ -34,39 +34,39 @@
 
 ## 📊 **Live Dashboard** (Auto-Updated)
 
-*Last updated: July 30, 2025 at 10:08 PM CST | July Direct Comparison Results*
+*Last updated: August 11, 2025 at 08:53 PM CST | July Direct Comparison Results*
 
 ### 🎯 Executive Summary
 
 ```
-📊 NET BUDGET VARIANCE: $-950
-📈 Categories Over Budget: 1
-📉 Categories Under Budget: 2
+📊 NET BUDGET VARIANCE: $+9,122
+📈 Categories Over Budget: 5
+📉 Categories Under Budget: 0
 
 💡 KEY INSIGHTS:
   • Direct head-to-head: CSV entries vs PDF files
-  • July validation: 20 CSV entries vs 19 PDF files
+  • July validation: 20 CSV entries vs 22 PDF files
   • 15 vendors auto-categorized from pattern learning
-  • 3 new vendors taught by human
-  • 15 PDFs rescued by Claude OCR
+  • 20 new vendors taught by human
+  • 2 PDFs rescued by Claude OCR
 ```
 
 ### 📈 Budget vs Actual Analysis (July 2025)
 
 | **Category** | **July CSV** | **July AI** | **Variance** | **Status** |
 |--------------|--------------|-------------|--------------|-------------|
-| **Balh** | $0 | $1,510 | $+1,510 | 🔴 OVER (AI found more) |
-| **Misc Expenses** | $8,581 | $6,275 | $-2,305 | 🟡 UNDER (AI found less) |
-| **Office Supplies** | $577 | $603 | $+26 | 🔴 OVER (AI found more) |
-| **Production molds, AI-tools** | $0 | $20 | $+20 | 🔴 OVER (AI found more) |
-| **Servers & platforms** | $1,501 | $1,300 | $-201 | 🟡 UNDER (AI found less) |
+| **Equipment** | $0 | $647 | $+647 | 🔴 OVER (AI found more) |
+| **Insurance** | $0 | $1,381 | $+1,381 | 🔴 OVER (AI found more) |
+| **Legal and professional** | $0 | $6,266 | $+6,266 | 🔴 OVER (AI found more) |
+| **Misc Expenses** | $0 | $148 | $+148 | 🔴 OVER (AI found more) |
+| **Servers & platforms** | $0 | $679 | $+679 | 🔴 OVER (AI found more) |
 
 
 ### 📅 Processing Statistics
-- **Direct Comparison (July):** 20 CSV entries vs 19 PDF files
-- **Claude API Calls:** 15 (~$0.75 total cost)
+- **Direct Comparison (July):** 20 CSV entries vs 22 PDF files
+- **Claude API Calls:** 2 (~$0.10 total cost)
 - **Auto-categorized Vendors:** 15 (smart pattern matching)
-- **Human-taught Vendors:** 3 (one-time learning)
+- **Human-taught Vendors:** 20 (one-time learning)
 
 **💡 Proof of Concept**: Direct head-to-head comparison validates AI accuracy against human-entered data.
 
